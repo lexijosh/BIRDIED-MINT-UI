@@ -321,7 +321,6 @@ const Home = (props: HomeProps) => {
                 <Link href="/">
                   <img
                     style={{
-                      filter: "invert(1)",
                       maxWidth: "350px",
                     }}
                     src="/logo.png"
@@ -331,8 +330,7 @@ const Home = (props: HomeProps) => {
               </Heading>
 
               <p>
-                6942 Rejected f00kers here to f00k shit up. 3 mints max per
-                wallet. Free. f00k f00k Mother f00kers.
+                CARPE DIEM! Sieze the Green
               </p>
 
               {guardStates.isStarted && (
